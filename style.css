@@ -5,3 +5,15 @@ img {
 tr {
 	text-align: center;
 }
+
+dl {
+	padding-left: 20px;
+}
+
+dd {
+	margin-left: 15px;
+}
+
+.lists {
+	text-align: left;
+}
