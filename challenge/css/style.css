@@ -1,0 +1,55 @@
+/* importing open sans */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
+
+body {
+	font-family: 'Open Sans', sans-serif;
+
+}
+
+a, a:visited, a:hover, a:active {
+    color: #fff;
+}
+
+ 
+
+.hero-image {
+	width: 100%;
+}
+ 
+.content-image {
+	width: 250px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.main-nav ul {
+	list-style: none;
+	background: #0A87A5;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+.main-nav li {
+	color: #fff;
+	display: inline-block;
+	padding: 0;
+	width: 120px;
+	height: 40px;
+	line-height: 40px;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+}
+
+.main-nav a:hover {
+	background: #17B4D7;
+}
+
+
